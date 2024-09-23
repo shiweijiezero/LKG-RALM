@@ -1,0 +1,21 @@
+[project]
+name = "BiLLM"
+version = "0.1.4"
+description = "Tool for converting LLMs from uni-directional to bi-directional for tasks like classification and sentence embeddings."
+authors = [
+    {name = "Sean Lee", email = "xmlee97@gmail.com"},
+]
+dependencies = [
+    "transformers>=4.38.2",
+]
+requires-python = ">=3.8"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+
+[tool.pdm]
+distribution = true

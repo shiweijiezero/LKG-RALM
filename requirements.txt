@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchainhub
+langchain-openai
+LangSmith
+bs4
+sentence_transformers
+elasticsearch
+langchain-elasticsearch
+tiktoken
+fastapi
+langserve[all]
+datasets
