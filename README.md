@@ -1,6 +1,6 @@
 # LKG-RALM
 
-LKG-RALM is a [brief description of your project].
+LKG-RALM is a implementation for paper "Making RALM Robust to Irrelevant Contexts via Layer Knowledge Guided Attention".
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
